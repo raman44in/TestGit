@@ -1,0 +1,7 @@
+Hi, This is online store for the following products.
+1. Atta
+2. Dal
+3. Besan
+4. Rice
+5. Sugar
+6. Food Oil
